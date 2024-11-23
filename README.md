@@ -4,6 +4,7 @@
 
 
 KAYNAK VERİ SETİ -->>https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023
+KAGGLE -->> https://www.kaggle.com/code/erberkuylas/data-analysis-for-global-bike-sales/notebook
 
 **VERİ SETİ KONUSU**
 Satış Veri Seti (2013-2023)
